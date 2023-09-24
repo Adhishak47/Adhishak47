@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm first-year student pursuing Artifical Intelligence & Data Science Engineering @ D.Y Patil College of Engineering, Pune.<br>Always ready to have new experiences, learn new skills, and take on new challanges.<br>Passionate about softaware devlopment and problem-solving.<br>Proficient in programming languages like JAVA , Python.<br>Curious to learn more about Web-development  & keep upgrading my skills.
+I'm Second-year student pursuing Artifical Intelligence & Data Science Engineering @ D.Y Patil College of Engineering, Pune.<br>Always ready to have new experiences, learn new skills, and take on new challanges.<br>Passionate about softaware devlopment and problem-solving.<br>Proficient in programming languages like JAVA , Python.<br>Curious to learn more about Web-development  & keep upgrading my skills.
 
 
 ## 🌐 Socials:
