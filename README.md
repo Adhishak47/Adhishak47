@@ -1,12 +1,16 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm Second-year student pursuing Artifical Intelligence & Data Science Engineering @ D.Y Patil College of Engineering, Pune.<br>Always ready to have new experiences, learn new skills, and take on new challanges.<br>Passionate about softaware devlopment and problem-solving.<br>Proficient in programming languages like JAVA , Python.<br>Curious to learn more about Web-development  & keep upgrading my skills.
+I'm a third-year software engineering student specializing in AI & Data Science with a strong foundation in
+Data Structures and Algorithms using Java. Proficient in JAVA and Python with a keen interest in
+Spring, Spring Boot, and full-stack Java development.
+
+I am eager to leverage and expand my skills in a challenging internship position where I can apply my programming skills to real-world projects and learn from experienced developers.
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Adhish_ak47) 
-[![LinkedIn]..(https://www.linkedin.com/in/adhish-karade-699961251
+[![LinkedIn](https://www.linkedin.com/in/adhish-karade-699961251
 )]
 
 # 💻 Tech Stack:
