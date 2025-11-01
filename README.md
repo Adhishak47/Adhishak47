@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm a third-year software engineering student specializing in AI & Data Science with a strong foundation in
+I'm a final-year software engineering student specializing in AI & Data Science with a strong foundation in
 Data Structures and Algorithms using Java. Proficient in JAVA and Python with a keen interest in
 Spring, Spring Boot, and full-stack Java development.
 
