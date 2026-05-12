@@ -105,7 +105,7 @@ A production-grade backend platform inspired by AI-powered code generation tools
 
 ---
 
-### [Trackwise — Personal Finance Management App](https://github.com/Adhishak47)
+### [Trackwise — Personal Finance Management App](https://github.com/Adhishak47/Trackwise)
 > *Spring Boot · Spring Security · Thymeleaf · H2 Database · Chart.js*
 
 A full-stack web app for personal expense tracking with secure authentication, role-based access control, and full CRUD operations. Features visual spending dashboards built with Chart.js and a clean, responsive UI via Thymeleaf templating.
