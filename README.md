@@ -30,7 +30,7 @@ My core interest lies in designing robust REST APIs, microservices, and AI-integ
 I'm actively looking for **Backend SDE**, **Full-Stack**, or **Startup Engineering** roles where I can contribute across the product lifecycle from day one.
 
 - 🎓 B.E. AI & Data Science — GPA 8.6/10 — May 2026
-- 🏢 Ex-Frontend Intern @ **Furno.ai** 
+- 🏢 Ex-Web Developer Intern @ **Furno.ai** 
 - 🛠️ Currently building a **Spring Boot + Kafka + Kubernetes** AI-powered platform
 - ☁️ Oracle Certified — **Cloud Infrastructure** & **Generative AI** (2025)
 - 📍 Pune, Maharashtra, India
